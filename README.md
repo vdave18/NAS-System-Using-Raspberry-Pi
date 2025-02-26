@@ -214,7 +214,3 @@ To avoid changes in IP addresses, you can assign a static IP:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 ```
-
----
-
-Simply copy and paste the above content into your `README.md` file on GitHub. This detailed guide includes all the sections you requested and is ready for direct use.
